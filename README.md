@@ -1,3 +1,7 @@
+live link
+https://hirredjobportal.netlify.app/
+
+
 <!-- how to connect supabase  -->
 
 1. First create New Project with name and password 
